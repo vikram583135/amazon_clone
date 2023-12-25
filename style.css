@@ -1,0 +1,10 @@
+*{
+    margin: 0px;
+    border: 0px;
+    padding: 0px;
+}
+div{
+    height: 4.2rem;
+    background-color: black;
+    color: aliceblue;
+}
